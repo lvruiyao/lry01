@@ -1,0 +1,17 @@
+body {
+  padding: 0px;
+  margin: 0px;
+}
+
+.circle {
+  width: 150px;
+  height: 150px;
+  color: white;
+  border: 2px solid red;
+  background-color: rgb(235, 8, 53);
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 180px 0px 0px 700px;
+}

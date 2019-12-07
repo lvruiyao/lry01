@@ -1,0 +1,23 @@
+body {
+  padding: 0px;
+  margin: 0px;
+}
+
+.a1 {
+  font-size: 1.5rem;
+  text-align: center;
+  padding: 10px;
+}
+
+.a2 {
+  font-size: 1.5rem;
+}
+
+.a3 {
+  padding: 0px 0px 10px 60px;
+}
+
+.a4 {
+  text-align: center;
+  line-height: 100px;
+}

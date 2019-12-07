@@ -1,0 +1,39 @@
+.tc {
+  text-align: center;
+}
+
+.fk {
+  display: flex;
+  justify-content: flex-start;
+}
+
+.a1 {
+  background-color: red;
+  width: 68px;
+  height: 102px;
+}
+
+.a2 {
+  border: 4px solid red;
+  background-color: white;
+  width: 90px;
+  height: 90px;
+}
+
+.a3 {
+  background-color: red;
+  width: 88px;
+  height: 88px;
+}
+
+.a4 {
+  border: 4px dashed red;
+  width: 90px;
+  height: 90px;
+}
+
+.a5 {
+  background-color: red;
+  width: 102px;
+  height: 68px;
+}
