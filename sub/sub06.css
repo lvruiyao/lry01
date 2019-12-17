@@ -37,15 +37,15 @@
   position: absolute;
 }
 
+.mydiv:hover {
+  z-index: 100;
+  cursor: pointer;
+}
+
 .mydiv01 {
   background-color: #0000ff;
   top: 20px;
   left: 20px;
-}
-
-.mydiv:hover {
-  z-index: 100;
-  cursor: pointer;
 }
 
 .mydiv02 {
